@@ -16,6 +16,18 @@ body, html {
   }
 
 h1{
-    text-align: center;
+    text-align: left;
     color: #ffffff
+}
+
+.form-group {
+  color: white;
+}
+
+#register_if_you_havent{
+  color: #007bff;
+}
+
+.error{
+  color: white;
 }
