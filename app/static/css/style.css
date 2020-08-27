@@ -17,7 +17,8 @@ body, html {
 
 h1{
     text-align: left;
-    color: #ffffff
+    color: #ffffff;
+    margin-top: 2rem;
 }
 
 .form-group {
@@ -30,4 +31,9 @@ h1{
 
 .error{
   color: white;
+}
+
+.anerror {
+  color:white
+  
 }

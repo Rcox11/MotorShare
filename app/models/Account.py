@@ -44,7 +44,7 @@ class Account():
             try:
                 user_data = {
                     "localId": "",
-                    "email": "test@test.com",
+                    "email": email,
                     "first_name": "",
                     "last_name": "",
                     "avatar": ""
