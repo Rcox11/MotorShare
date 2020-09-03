@@ -18,7 +18,7 @@ body, html {
 h1{
     text-align: left;
     color: #ffffff;
-    margin-top: 2rem;
+    padding-top: 2rem;
 }
 
 .form-group {
@@ -36,4 +36,8 @@ h1{
 .anerror {
   color:white
   
+}
+
+.dropdown-item {
+color: white
 }
